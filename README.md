@@ -8,6 +8,7 @@ I'm a
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading redux@1.0.0-rc source code](https://medium.com/@minhsiungw/reading-redux-1-0-0-rc-source-code-dcff27408063?source=rss-b147c31e2235------2)
 - [Let’s make a counter with cookie](https://medium.com/@minhsiungw/lets-make-a-counter-with-cookie-c13aac93674e?source=rss-b147c31e2235------2)
 - [在回饋中學習](https://medium.com/@minhsiungw/%E5%9C%A8%E5%9B%9E%E9%A5%8B%E4%B8%AD%E5%AD%B8%E7%BF%92-34eeae3bf8cb?source=rss-b147c31e2235------2)
 <!-- BLOG-POST-LIST:END -->
