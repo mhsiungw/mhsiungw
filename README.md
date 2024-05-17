@@ -17,6 +17,7 @@ I'm a
 ### Recently working on
 
 1. Merged PR [#511](https://github.com/pycontw/pycontw-frontend/pull/511) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
+2. Merged PR [#1194](https://github.com/pycontw/pycon.tw/pull/1194) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
