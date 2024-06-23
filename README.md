@@ -8,10 +8,10 @@ I'm a
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Step by Step: How to Integrate Prisma with Express and Seed Your Database](https://medium.com/@minhsiungw/step-by-step-how-to-integrate-prisma-with-express-and-seed-your-database-770de32384ab?source=rss-b147c31e2235------2)
 - [Stop using RUN chown in your Dockerfile: Optimize for Smaller Images](https://medium.com/@minhsiungw/stop-using-run-chown-in-your-dockerfile-optimize-for-smaller-images-ae40e8c1f8b3?source=rss-b147c31e2235------2)
 - [AWS RDS’ public access is not really public](https://medium.com/@minhsiungw/aws-rds-public-access-is-not-really-public-69df54c785ca?source=rss-b147c31e2235------2)
 - [Reading redux@1.0.0-rc source code](https://medium.com/@minhsiungw/reading-redux-1-0-0-rc-source-code-dcff27408063?source=rss-b147c31e2235------2)
-- [Let’s make a counter with cookie](https://medium.com/@minhsiungw/lets-make-a-counter-with-cookie-c13aac93674e?source=rss-b147c31e2235------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recently working on
