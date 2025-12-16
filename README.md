@@ -14,7 +14,7 @@ I'm a
 - [Step by Step: How to Integrate Prisma with Express and Seed Your Database](https://medium.com/@minhsiungw/step-by-step-how-to-integrate-prisma-with-express-and-seed-your-database-770de32384ab?source=rss-b147c31e2235------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Recently working on
+### I've worked on
 
 1. Merged PR [#511](https://github.com/pycontw/pycontw-frontend/pull/511) in [pycontw/pycontw-frontend](https://github.com/pycontw/pycontw-frontend)
 2. Merged PR [#1194](https://github.com/pycontw/pycon.tw/pull/1194) in [pycontw/pycon.tw](https://github.com/pycontw/pycon.tw)
