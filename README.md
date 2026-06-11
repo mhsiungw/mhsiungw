@@ -8,10 +8,10 @@ I'm a
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS SSA-C03 準備過程](https://medium.com/@minhsiungw/aws-ssa-c03-%E6%BA%96%E5%82%99%E9%81%8E%E7%A8%8B-0a857154f9d3?source=rss-b147c31e2235------2)
 - [Reverse Linked List &lpar;206&rpar; — Easy ⭐](https://medium.com/@minhsiungw/reverse-linked-list-206-9093b6135d2e?source=rss-b147c31e2235------2)
 - [Grow through Deeper Order](https://medium.com/@minhsiungw/grow-through-deeper-order-0849018fdbcc?source=rss-b147c31e2235------2)
 - [What happens when we run a piece of code in JavaScript from a broader perspective?](https://medium.com/@minhsiungw/what-happens-when-we-run-a-piece-of-code-in-javascript-from-a-broader-perspective-a9231a24da25?source=rss-b147c31e2235------2)
-- [.browserslistrc 是什麼？](https://medium.com/@minhsiungw/browserslistrc-%E6%98%AF%E4%BB%80%E9%BA%BC-e2d32d91c9ae?source=rss-b147c31e2235------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### I've worked on
